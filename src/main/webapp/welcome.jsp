@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Hello ARRK </h1>
-<a href="welcome.jsp"> </a>
+<h1>Welcome ARRK !! </h1>
 </body>
 </html>

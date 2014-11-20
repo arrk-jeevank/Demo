@@ -8,6 +8,5 @@
 </head>
 <body>
 <h1>Hello ARRK </h1>
-<a href="welcome.jsp"> </a>
 </body>
 </html>
